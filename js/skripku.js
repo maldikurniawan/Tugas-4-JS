@@ -9,7 +9,7 @@ function login() {
         alert("Selamat Datang Budi, Anda Operator");
     }
     else {
-        alert("Maaf Anda Gagal Login");
+        alert("Maaf, Anda Gagal Login");
     }
 
 }
